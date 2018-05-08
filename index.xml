@@ -6,9 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr-ko</language>
+    <lastBuildDate>Tue, 08 May 2018 18:22:36 +0900</lastBuildDate>
     
 	<atom:link href="https://blog.openstack.computer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resume</title>
+      <link>https://blog.openstack.computer/resume/</link>
+      <pubDate>Tue, 08 May 2018 18:22:36 +0900</pubDate>
+      
+      <guid>https://blog.openstack.computer/resume/</guid>
+      <description>이력서 연락처  Mail : resume@openstack.computer  업무적 강점  Devops 에 필요한 환경 구축 프로젝트 경험
+ H(금융)사 Devops 환경 구축 프로젝트 참여
+  업무에 필요한 Tool 들을 찾거나 직접 개발 할 수 있는 역량 보유
+ github page docker hub page  Opensource 를 도입하여 회사 업무에 사용 하며 운영 했던 경험 보유
+ Opensource 를 활용한 업무 환경 개선 및 도입 경험 보유  Zentyal, OpenLDAP, OpenVPN, Nagios, Afresco, zabbix 등   Enterprize 환경에서의 Linux 운영, 성능 향상 및 Trouble shooting 에 많은 경험을 가지고 있음</description>
+    </item>
     
   </channel>
 </rss>
